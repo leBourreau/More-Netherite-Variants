@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "netheritevariants:block/frozen_netherite_block"
+  }
+}

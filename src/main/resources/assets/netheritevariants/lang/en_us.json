@@ -1,9 +1,9 @@
 {
+  "creativetab.netheritevariants.netherite_variants_items": "More Netherite Variants",
+  "block.netheritevariants.blazed_netherite_block": "Blazed Netherite Block",
+  "block.netheritevariants.frozen_netherite_block": "Frozen Netherite Block",
   "item.netheritevariants.blazed_netherite_ingot": "Blazed Netherite Ingot",
   "item.netheritevariants.frozen_netherite_ingot": "Frozen Netherite Ingot",
-  "itemGroup.netheritevariants": "Example Mod Tab",
-  "block.netheritevariants.example_block": "Example Block",
-  "item.netheritevariants.example_item": "Example Item",
 
   "netheritevariants.configuration.title": "Example Mod Configs",
   "netheritevariants.configuration.section.netheritevariants.common.toml": "Example Mod Configs",
