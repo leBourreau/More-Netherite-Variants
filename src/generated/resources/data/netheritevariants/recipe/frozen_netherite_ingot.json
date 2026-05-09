@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "netheritevariants:frozen_netherite_block"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "id": "netheritevariants:frozen_netherite_ingot"
+  }
+}
