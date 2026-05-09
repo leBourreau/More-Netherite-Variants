@@ -24,6 +24,7 @@ public class ModCreativeModeTabs {
                                 output.accept(ModBlocks.BLAZED_NETHERITE_BLOCK);
                                 output.accept(ModItems.FROZEN_NETHERITE_INGOT);
                                 output.accept(ModBlocks.FROZEN_NETHERITE_BLOCK);
+                                output.accept(ModItems.BLAZED_NETHERITE_STAFF);
                             }).build());
 
 

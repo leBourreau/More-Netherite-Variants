@@ -1,9 +1,15 @@
 {
   "creativetab.netheritevariants.netherite_variants_items": "More Netherite Variants",
+
   "block.netheritevariants.blazed_netherite_block": "Blazed Netherite Block",
   "block.netheritevariants.frozen_netherite_block": "Frozen Netherite Block",
+
   "item.netheritevariants.blazed_netherite_ingot": "Blazed Netherite Ingot",
   "item.netheritevariants.frozen_netherite_ingot": "Frozen Netherite Ingot",
+  "item.netheritevariants.blazed_netherite_staff": "Blazed Netherite Staff",
+
+  "tooltip.netheritevariants.blazed_netherite_staff.shift_down": "§6Right Click a Mob to turn them into a Spawn Egg§r",
+  "tooltip.netheritevariants.blazed_netherite_staff": "Press §eShift§r for more Information",
 
   "netheritevariants.configuration.title": "Example Mod Configs",
   "netheritevariants.configuration.section.netheritevariants.common.toml": "Example Mod Configs",
